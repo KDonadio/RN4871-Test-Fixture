@@ -1,11 +1,3 @@
-![DFU_Box_2 (Custom)](https://user-images.githubusercontent.com/57275578/133635148-f2f70d4f-9951-4fda-ac90-638b10054015.jpg)
-
-
-
-![DFU_Box_2 (Small)](https://user-images.githubusercontent.com/57275578/133633556-05b9bfe1-442c-4597-8312-7c8035a479a7.jpg)
-![DFU_Box_3 (Small)](https://user-images.githubusercontent.com/57275578/133633578-8d292f46-6a7c-4e4c-b799-e7bdccfbc217.jpg)
-![DFU_Box_4 (Small)](https://user-images.githubusercontent.com/57275578/133633590-b6ddc124-d45e-4049-beb5-0123fe63674a.jpg)
-![DFU_Box_1 (Small)](https://user-images.githubusercontent.com/57275578/133633598-6360ad94-8089-469e-a2c1-9588b0838532.jpg)
 # RN4871-Test-Fixture
 RN4871/BM71 module programmer with bed of nails and a TAG Connect cable for in-circuit programming.
 
@@ -19,3 +11,13 @@ Features -
     Programming
     Reading the firmware version of the module
     Programming status via progress bar
+
+![DFU_Box_2 (Custom)](https://user-images.githubusercontent.com/57275578/133635424-63dbe74d-44dc-4b84-8371-615bef7b4764.jpg)
+![DFU_Box_3 (Custom)](https://user-images.githubusercontent.com/57275578/133635438-daea0b2b-8d7d-4c5e-9653-2b30cec0ea9e.jpg)
+![DFU_Box_4 (Custom)](https://user-images.githubusercontent.com/57275578/133635447-ddd66308-c7f1-4fd5-a29c-cf0db33f8ad4.jpg)
+![DFU_Box_1 (Custom)](https://user-images.githubusercontent.com/57275578/133635457-ac1d6277-9632-4716-a20f-be665f76d383.jpg)
+
+
+
+
+
