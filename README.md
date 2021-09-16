@@ -1,4 +1,5 @@
-![DFU_Box_2 (Custom)](https://user-images.githubusercontent.com/57275578/133634630-10744602-f9ac-4dae-86ea-4845d26acdc3.jpg)
+![DFU_Box_2 (Custom)](https://user-images.githubusercontent.com/57275578/133635148-f2f70d4f-9951-4fda-ac90-638b10054015.jpg)
+
 
 
 ![DFU_Box_2 (Small)](https://user-images.githubusercontent.com/57275578/133633556-05b9bfe1-442c-4597-8312-7c8035a479a7.jpg)
