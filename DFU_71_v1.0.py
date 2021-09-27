@@ -457,9 +457,13 @@ while True:
     if event == "Get Version":
         print("Firmware Version:")
         comPort = find_serial_port(VID, PID)  # Find USB COM port
-        s = serial.Serial(port="COM5", baudrate=115200, bytesize=serial.EIGHTBITS,
+        s = serial.Serial(port=comPort, baudrate=115200, bytesize=serial.EIGHTBITS,
                           parity=serial.PARITY_NONE, stopbits=serial.STOPBITS_ONE,
                           timeout=0.1, xonxoff=False, rtscts =True, dsrdtr=False)
+#       comPort was hard coded here - fixed now
+#        s = serial.Serial(port="COM5", baudrate=115200, bytesize=serial.EIGHTBITS,
+#                          parity=serial.PARITY_NONE, stopbits=serial.STOPBITS_ONE,
+#                          timeout=0.1, xonxoff=False, rtscts =True, dsrdtr=False)
         APP_Mode()
         time.sleep(0.1)  # Delay for 100mS
         s.write(b"$$$")
@@ -473,7 +477,7 @@ while True:
         sg.Popup('RN4871 Firmware Version', temp)
         s.close()
     # --------------------------------------------------
-    # Update button
+    # Program button
     if event == "Program Device":
         if values["_HEX_"] == "":
             print("No hex file selected")
